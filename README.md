@@ -1,1 +1,1 @@
-# Parkinson-s
+# Parkinsons
